@@ -5,3 +5,4 @@
 - read: SYS_read en kernel/syscall.h, sys_read en kernel/sysfile.c
 - read: SYS_read en kernel/syscall.h, sys_read en kernel/sysfile.c
 - Diferencia: La interfaz (SYS_read) es solo un ID entero usado por el proceso, mientras que la implementacion (sys_read) ejecuta la logica real en modo kernel.
+
